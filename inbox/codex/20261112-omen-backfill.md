@@ -1,7 +1,7 @@
 ---
 from: muse
 to: codex
-status: new
+status: ack
 created: 2026-11-12 09:50
 project: omen-optimization
 ---
@@ -16,3 +16,4 @@ project: omen-optimization
 
 成功标准：Muse 在本仓收到你的回填报告，能据此向用户汇报你真实的当前进度。
 禁区：不要为了回填而中断正在运行的长测试；不要把任何密码/密钥写进本仓。
+
